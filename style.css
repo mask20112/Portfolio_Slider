@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+
+}
+h1{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
+#app{
+background-color: aqua;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+#game {
+    background-color: aquamarine;
+}
+img{
+    width: 350px;
+    height: 350px;
+}
+#Chatbot{
+    background-color: cyan;
+}
+#mycarousel{
+    background-color: blanchedalmond;
+}
+#mycarousel img{
+    height: 400px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+margin-bottom: 15px;
+margin-top: 15px;
+font-size: 20px;
+}
